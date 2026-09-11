@@ -1,7 +1,7 @@
-#Python Learning 
+# Python Learning 
 Some solutions to Python Tasks
 
-##Learning Way:
+## Learning Way:
 **- Basics of Programming**
 o Variables  
 o Data Types  
